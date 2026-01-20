@@ -13,9 +13,9 @@
 </p>
 
 <h3 align="center">
-  <span style="color:#00E5FF;">Cybersecurity Engineer</span> •
-  <span style="color:#7C4DFF;">Blockchain Systems</span> •
-  <span style="color:#FF9100;">AI for Security</span>
+  <span style="color:#00E5FF;">🛡️ Cybersecurity Engineer</span> •
+  <span style="color:#7C4DFF;">⛓️ Blockchain Systems</span> •
+  <span style="color:#FF9100;">🤖 AI for Security</span>
 </h3>
 
 <p align="center">
@@ -28,130 +28,182 @@
   &center=true
   &vCenter=true
   &width=750
-  &lines=Secure+Systems+Engineering;
-  Blockchain+%26+Zero-Knowledge+Proofs;
-  AI-Driven+Threat+Detection;
-  Digital+Forensics+%26+Incident+Response" />
+  &lines=Securing+Systems+%F0%9F%9B%A1%EF%B8%8F;
+  Breaking+Things+Ethically+%F0%9F%94%8D;
+  Building+Trustless+Systems+%E2%9B%93;
+  Teaching+AI+to+Detect+Threats+%F0%9F%A4%96" />
+</p>
+
+<p align="center">
+  <a href="#-projects">🚀 Projects</a> •
+  <a href="#-skills">🧰 Skills</a> •
+  <a href="#-activity">📊 Activity</a> •
+  <a href="#-connect">📫 Connect</a>
 </p>
 
 ---
 
 ## 🧠 Professional Summary
-Security-focused engineer with hands-on experience in **cybersecurity, blockchain architectures, and AI-driven security analysis**.  
-Strong foundation in **secure system design, vulnerability research, DFIR automation**, and **privacy-preserving technologies** such as **Zero-Knowledge Proofs (ZKP)**.  
+Security-focused engineer working across **cybersecurity, blockchain, and AI-driven security analysis**.  
+Strong in **secure system design, DFIR automation, vulnerability research**, and **privacy-preserving cryptography (ZKP)**.  
 Focused on building **production-grade, security-first systems**.
 
 ---
 
 ## 🎯 Core Focus Areas
-- 🔐 **Offensive & Defensive Cybersecurity**
-- ⛓️ **Blockchain Security & ZKP-based Systems**
-- 🤖 **AI / ML for Threat Detection & Anomaly Analysis**
-- 🧪 **Research-oriented Engineering & Proof-of-Concept Development**
+- 🔐 Offensive & Defensive Cybersecurity  
+- ⛓️ Blockchain Security & Cryptography  
+- 🤖 AI / ML for Threat Detection  
+- 🧪 Research & Proof-of-Concept Engineering  
 
 ---
 
-## 🧰 Technical Skills & Tooling
+## 🧰 Skills
+<a id="skills"></a>
 
-### 🔐 Cybersecurity & DFIR
-**Capabilities**
-- Vulnerability Assessment & Penetration Testing (VAPT)
-- Web Application & API Security
-- Network Enumeration & Attack Surface Mapping
-- Digital Forensics & Incident Response (DFIR)
-- Log Analysis & SIEM-style Correlation
-- Malware Analysis (Foundational)
-- Secure Authentication & Access Control
+<details open>
+<summary><b>🔐 Cybersecurity & DFIR</b></summary>
 
-**Tools**
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
-![RustScan](https://img.shields.io/badge/RustScan-000000?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge)
+- VAPT, Web & API Security  
+- Network Enumeration & Attack Surface Mapping  
+- Digital Forensics & Incident Response  
+- Log Analysis & Threat Correlation  
 
----
+**Tools:** Nmap • Burp Suite • Wireshark • Metasploit • OWASP ZAP • Kali Linux
+</details>
 
-### ⛓️ Blockchain & Cryptography
-**Capabilities**
-- Blockchain Architecture & Consensus Models
-- Secure Smart Contract Design (Learning / PoC Level)
-- Zero-Knowledge Proof (ZKP) Systems
-- Cryptographic Hashing & Merkle Structures
-- Tamper-proof Document Verification
-- Decentralized Identity (DID) Concepts
+<details>
+<summary><b>⛓️ Blockchain & Cryptography</b></summary>
 
-**Technologies**
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
-![ZKP](https://img.shields.io/badge/Zero--Knowledge_Proofs-7C4DFF?style=for-the-badge)
-![Cryptography](https://img.shields.io/badge/Cryptography-3A3A3A?style=for-the-badge)
+- Blockchain architecture & consensus  
+- Merkle Trees & Hashing  
+- Zero-Knowledge Proofs (ZKP)  
+- Secure document verification  
+</details>
 
----
+<details>
+<summary><b>🤖 AI & Machine Learning</b></summary>
 
-### 🤖 Artificial Intelligence & Machine Learning
-**Capabilities**
-- AI for Cybersecurity & Abuse Detection
-- Anomaly Detection & Classification Models
-- Feature Engineering for Security Data
-- Dataset Collection, Labeling & Curation
-- Model Evaluation & Optimization
+- Anomaly detection & classification  
+- Security-focused datasets  
+- Model evaluation & tuning  
 
-**Stack**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+**Stack:** PyTorch • Scikit-learn • NumPy • Pandas
+</details>
+
+<details>
+<summary><b>💻 Programming & Platforms</b></summary>
+
+Python • Java • Bash  
+Linux • Git • GitHub • VS Code • Oracle Cloud
+</details>
 
 ---
 
-### 💻 Programming, Systems & Platforms
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge)
+## 🚀 Projects
+<a id="projects"></a>
 
-**Systems & Tools**
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge)
+<details open>
+<summary><b>🗳️ BioVoteChain+</b></summary>
 
----
+**Domain:** Blockchain • ZKP • Biometrics • AI  
 
-## 🚀 Projects I Have Worked On
+- Secure biometric-based voting system  
+- Zero-Knowledge Proofs for vote privacy  
+- AI-driven anomaly & fraud detection  
 
-### 🗳️ BioVoteChain+
-Secure **biometric-enabled blockchain voting system** using **ZKP and AI anomaly detection**.  
-Focused on **vote privacy, integrity, and fraud prevention**.  
 🔗 https://github.com/SwathiPrasad-18/BioVoteChain+
+</details>
 
----
+<details>
+<summary><b>📂 Obelisk Vault</b></summary>
 
-### 📂 Blockchain eVault
-**Tamper-proof legal document storage system** with **cryptographic hashing and zero-knowledge verification**.  
-Designed for **secure ownership proof and privacy-preserving validation**.  
+**Domain:** Secure Storage • Cryptography  
+
+- Encrypted digital vault  
+- Integrity verification  
+- Secure access control  
+
+🔗 https://github.com/SwathiPrasad-18/Obelisk-Vault
+</details>
+
+<details>
+<summary><b>⛓️ Merkle Vote</b></summary>
+
+**Domain:** Blockchain • Merkle Trees  
+
+- Merkle-tree-based voting system  
+- Lightweight integrity verification  
+- Transparent validation  
+
+🔗 https://github.com/SwathiPrasad-18/Merkle-Vote
+</details>
+
+<details>
+<summary><b>📂 Blockchain eVault</b></summary>
+
+**Domain:** Blockchain • Privacy  
+
+- Tamper-proof legal document storage  
+- Zero-knowledge verification  
+- Ownership proof  
+
 🔗 https://github.com/SwathiPrasad-18/eVault
+</details>
 
----
+<details>
+<summary><b>🤖 AI Vulnerability Scanner</b></summary>
 
-### 🤖 AI Vulnerability Scanner
-**Machine-learning-based vulnerability detection tool** for web and network security.  
-Focused on **anomaly detection and reducing false positives**.  
+**Domain:** AI • Cybersecurity  
+
+- ML-based vulnerability classification  
+- Anomaly detection  
+- Reduced false positives  
+
 🔗 https://github.com/SwathiPrasad-18/AI-Vulnerability-Scanner
+</details>
 
----
+<details>
+<summary><b>🌍 Air Pollution Detection</b></summary>
 
-### 🔍 Digital Forensics Toolkit
-**Python-based DFIR automation toolkit** for incident response and evidence analysis.  
-Includes **log parsing, artifact analysis, and investigation workflows**.  
+**Domain:** Machine Learning • Environment  
+
+- Air quality analysis  
+- Pollution prediction  
+- Environmental monitoring  
+
+🔗 https://github.com/SwathiPrasad-18/Air-Pollution-Detection
+</details>
+
+<details>
+<summary><b>🛡️ REDACTION Tool</b></summary>
+
+**Domain:** Privacy • Security  
+
+- Sensitive data detection  
+- Automated redaction  
+- Secure document sharing  
+
+🔗 https://github.com/SwathiPrasad-18/REDACTION-Tool
+</details>
+
+<details>
+<summary><b>🔍 Digital Forensics Toolkit</b></summary>
+
+**Domain:** DFIR • Automation  
+
+- Log & artifact analysis  
+- Incident response automation  
+- Forensic workflows  
+
 🔗 https://github.com/SwathiPrasad-18/Digital-Forensics-Toolkit
+</details>
 
 ---
 
-## 📊 Engineering Activity
+## 📊 Activity
+<a id="activity"></a>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SwathiPrasad-18&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
@@ -162,17 +214,9 @@ Includes **log parsing, artifact analysis, and investigation workflows**.
 
 ---
 
-## 🤝 Professional Skills
-- Secure System Design
-- Threat Modeling (STRIDE)
-- Architecture Documentation
-- Research & Proof-of-Concept Development
-- Team Collaboration & Leadership
-- Continuous Learning Mindset
-
----
-
 ## 📫 Connect
+<a id="connect"></a>
+
 <p align="center">
   <a href="https://github.com/SwathiPrasad-18">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
