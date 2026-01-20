@@ -57,13 +57,6 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SwathiPrasad-18&theme=onestar&no-frame=true&row=1" />
-</p>
-
----
-
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://github.com/SwathiPrasad-18">
@@ -72,5 +65,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SwathiPrasad-18&style=flat-square&color=blue" />
+  <img src="www.linkedin.com/in/b-swathi-prasad18&style=flat-square&color=blue" />
 </p>
