@@ -1,27 +1,53 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Swathi%20Prasad&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api
+  ?type=waving
+  &height=240
+  &color=gradient
+  &customColorList=0,2,5,10,15
+  &text=Swathi%20Prasad
+  &fontSize=48
+  &fontColor=E6EDF3
+  &animation=twinkling
+  &stroke=00E5FF
+  &strokeWidth=1" />
 </p>
 
-<h3 align="center">Cybersecurity Engineer • Blockchain Systems • AI for Security</h3>
+<h3 align="center">
+  <span style="color:#00E5FF;">Cybersecurity Engineer</span> •
+  <span style="color:#7C4DFF;">Blockchain Systems</span> •
+  <span style="color:#FF9100;">AI for Security</span>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Secure+Systems+Engineering;Blockchain+%26+Zero-Knowledge+Proofs;AI-Driven+Threat+Detection;Digital+Forensics+%26+Incident+Response" />
+  <img src="https://readme-typing-svg.demolab.com
+  ?font=JetBrains+Mono
+  &size=18
+  &duration=1800
+  &pause=600
+  &color=00E5FF
+  &center=true
+  &vCenter=true
+  &width=750
+  &lines=Secure+Systems+Engineering;
+  Blockchain+%26+Zero-Knowledge+Proofs;
+  AI-Driven+Threat+Detection;
+  Digital+Forensics+%26+Incident+Response" />
 </p>
 
 ---
 
 ## 🧠 Professional Summary
 Security-focused engineer with hands-on experience in **cybersecurity, blockchain architectures, and AI-driven security analysis**.  
-Strong foundation in **secure system design, vulnerability research, DFIR automation**, and **privacy-preserving technologies** such as **Zero-Knowledge Proofs**.  
+Strong foundation in **secure system design, vulnerability research, DFIR automation**, and **privacy-preserving technologies** such as **Zero-Knowledge Proofs (ZKP)**.  
 Focused on building **production-grade, security-first systems**.
 
 ---
 
 ## 🎯 Core Focus Areas
-- 🔐 Offensive & Defensive Cybersecurity  
-- ⛓️ Blockchain Security & ZKP-based Systems  
-- 🤖 AI / ML for Threat Detection & Anomaly Analysis  
-- 🧪 Research-oriented Engineering & Proof-of-Concept Development  
+- 🔐 **Offensive & Defensive Cybersecurity**
+- ⛓️ **Blockchain Security & ZKP-based Systems**
+- 🤖 **AI / ML for Threat Detection & Anomaly Analysis**
+- 🧪 **Research-oriented Engineering & Proof-of-Concept Development**
 
 ---
 
@@ -59,7 +85,7 @@ Focused on building **production-grade, security-first systems**.
 
 **Technologies**
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
-![ZKP](https://img.shields.io/badge/Zero--Knowledge_Proofs-4B0082?style=for-the-badge)
+![ZKP](https://img.shields.io/badge/Zero--Knowledge_Proofs-7C4DFF?style=for-the-badge)
 ![Cryptography](https://img.shields.io/badge/Cryptography-3A3A3A?style=for-the-badge)
 
 ---
@@ -98,8 +124,8 @@ Focused on building **production-grade, security-first systems**.
 ## 🚀 Projects I Have Worked On
 
 ### 🗳️ BioVoteChain+
-**Biometric-enabled blockchain voting system** using **ZKP and AI anomaly detection**.  
-Focuses on **secure identity verification, vote privacy, and fraud prevention**.  
+Secure **biometric-enabled blockchain voting system** using **ZKP and AI anomaly detection**.  
+Focused on **vote privacy, integrity, and fraud prevention**.  
 🔗 https://github.com/SwathiPrasad-18/BioVoteChain+
 
 ---
@@ -113,7 +139,7 @@ Designed for **secure ownership proof and privacy-preserving validation**.
 
 ### 🤖 AI Vulnerability Scanner
 **Machine-learning-based vulnerability detection tool** for web and network security.  
-Focuses on **anomaly detection, classification, and reducing false positives**.  
+Focused on **anomaly detection and reducing false positives**.  
 🔗 https://github.com/SwathiPrasad-18/AI-Vulnerability-Scanner
 
 ---
@@ -157,5 +183,5 @@ Includes **log parsing, artifact analysis, and investigation workflows**.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SwathiPrasad-18&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=SwathiPrasad-18&style=flat-square&color=00E5FF" />
 </p>
