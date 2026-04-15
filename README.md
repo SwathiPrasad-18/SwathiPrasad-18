@@ -1,9 +1,32 @@
 <h1 align="center">Swathi Prasad B</h1>
 
 <p align="center">
-  <em>Cybersecurity Researcher • AI-driven Threat Intelligence </em>
+  <em>Cybersecurity Researcher • AI-driven Threat Intelligence • Blockchain Security Architect</em>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=780&lines=Cybersecurity+Researcher+%7C+AI+Threat+Detection;Malware+Analysis+%7C+DFIR+%7C+UEBA+Systems;Blockchain+Security+%2B+Zero-Knowledge+Proofs;Network+Security+%7C+CCNA+Certified" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Threat%20Intelligence-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Domain-Cybersecurity-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Specialty-AI%20Security%20%2B%20ZKP-purple?style=flat-square"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SwathiPrasad-18">
+    <img src="https://img.shields.io/github/followers/SwathiPrasad-18?label=Researchers&style=flat-square&color=00E5FF"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CCNA-Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+  &nbsp;
+  <a href="https://tryhackme.com/p/SwathiPrasad">
+    <img src="https://img.shields.io/badge/TryHackMe-Active-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=SwathiPrasad-18&style=flat-square&color=00E5FF&label=profile+views" />
+</p>
 
 ---
 
