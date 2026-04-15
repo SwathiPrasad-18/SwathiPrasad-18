@@ -33,7 +33,7 @@
 ## 🧠 About Me
 
 * 🔐 Cybersecurity researcher specializing in **AI-driven threat detection and adaptive defense systems**
-* 🤖 Architect of **AEGIS**, an intelligent multi-layered security platform
+* 🤖 Architecting intelligent security systems and **AI-based detection pipelines**
 * ⛓️ Designing **privacy-preserving systems using Blockchain & ZKP**
 * 🧬 Focused on **behavioral analytics, anomaly detection, and digital forensics**
 * 🌐 Strong foundation in **network security (CCNA certified)**
@@ -55,67 +55,6 @@
 
 ---
 
-## 🖥️ AEGIS Dashboard Preview
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SwathiPrasad-18/assets/main/aegis-dashboard.gif" width="900"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Active-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Threats-Analyzing-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/System-Live-success?style=flat-square"/>
-</p>
-
----
-
-## 🛠️ Core Projects
-
-### 🛡️ AEGIS — Adaptive Endpoint Guardian & Intelligence System
-
-> AI-powered, unified cybersecurity platform
-
-<img src="https://img.shields.io/badge/AI-Detection-blue?style=flat-square"/> 
-<img src="https://img.shields.io/badge/Memory-Forensics-red?style=flat-square"/> 
-<img src="https://img.shields.io/badge/Network-Intelligence-green?style=flat-square"/> 
-<img src="https://img.shields.io/badge/YARA-AutoGen-purple?style=flat-square"/> 
-
-* Deep learning-based malware detection
-* Memory forensics for process injection detection
-* Network traffic intelligence (fileless threats)
-* Automated YARA signature generation
-* Threat intelligence correlation
-* Attack timeline reconstruction
-* Explainable AI layer
-* Self-learning pipeline
-
----
-
-### 📊 UEBA System (User & Entity Behavior Analytics)
-
-<img src="https://img.shields.io/badge/Anomaly-Detection-blue?style=flat-square"/> 
-<img src="https://img.shields.io/badge/Insider-Threat-red?style=flat-square"/> 
-
-* Behavioral anomaly detection
-* Insider threat identification
-* Real-time log streaming (Go backend)
-* AI behavioral fingerprinting
-* React-based dashboard
-
----
-
-### 🔐 Blockchain eVault (ZKP-based Secure Storage)
-
-<img src="https://img.shields.io/badge/ZKP-Enabled-purple?style=flat-square"/> 
-<img src="https://img.shields.io/badge/Blockchain-Secure-black?style=flat-square"/> 
-
-* Secure document storage
-* Zero-Knowledge Proof verification
-* Tamper-proof integrity
-* Privacy-first design
-
----
-
 ## ⚙️ Skills
 
 ### 🔐 Cybersecurity
@@ -126,7 +65,7 @@ VAPT • Malware Analysis • DFIR • Network Security • Threat Intelligence 
 
 PyTorch • Behavioral Modeling • Anomaly Detection • Explainable AI
 
-### ⛓️ Blockchain & Crypto
+### ⛓️ Blockchain & Cryptography
 
 Solidity • Ethereum • ZKP • Merkle Trees • IPFS • Cryptographic Protocols
 
@@ -207,9 +146,6 @@ Python • Java • JavaScript • Node.js • React • Go • Linux • Git
 </p>
 
 * Cisco Certified Network Associate (CCNA)
-* CompTIA Security+ (In Progress)
-* CEH (Planned)
-* Google Cybersecurity Certificate
 
 ---
 
