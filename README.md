@@ -33,8 +33,8 @@
 ## 🧠 About Me
 
 * 🔐 Cybersecurity researcher specializing in **AI-driven threat detection and adaptive defense systems**
-* 🤖 Architecting **AEGIS**, an intelligent, multi-layered security platform
-* ⛓️ Designing **privacy-preserving systems** using Blockchain and Zero-Knowledge Proofs (ZKP)
+* 🤖 Architect of **AEGIS**, an intelligent multi-layered security platform
+* ⛓️ Designing **privacy-preserving systems using Blockchain & ZKP**
 * 🧬 Focused on **behavioral analytics, anomaly detection, and digital forensics**
 * 🌐 Strong foundation in **network security (CCNA certified)**
 
@@ -42,10 +42,10 @@
 
 ## 🚀 Research Focus
 
-* **Autonomous threat detection systems** powered by machine learning
-* **Behavioral intelligence models** for insider threat detection
-* **Explainable AI (XAI)** for transparent security decision-making
-* **Cross-layer threat correlation**, combining:
+* Autonomous **AI-based threat detection systems**
+* Behavioral intelligence for **insider threat detection**
+* **Explainable AI (XAI)** in cybersecurity
+* Cross-layer threat correlation:
 
   * Memory Forensics
   * Network Intelligence
@@ -82,12 +82,12 @@
 
 * Deep learning-based malware detection
 * Memory forensics for process injection detection
-* Network traffic intelligence (fileless threat detection)
+* Network traffic intelligence (fileless threats)
 * Automated YARA signature generation
 * Threat intelligence correlation
 * Attack timeline reconstruction
-* Explainable AI decision layer
-* Self-learning detection pipeline
+* Explainable AI layer
+* Self-learning pipeline
 
 ---
 
@@ -96,11 +96,11 @@
 <img src="https://img.shields.io/badge/Anomaly-Detection-blue?style=flat-square"/> 
 <img src="https://img.shields.io/badge/Insider-Threat-red?style=flat-square"/> 
 
-* AI-driven behavioral anomaly detection
+* Behavioral anomaly detection
 * Insider threat identification
-* Real-time log ingestion (Go backend)
-* Behavioral fingerprinting models
-* React-based visualization dashboard
+* Real-time log streaming (Go backend)
+* AI behavioral fingerprinting
+* React-based dashboard
 
 ---
 
@@ -109,14 +109,14 @@
 <img src="https://img.shields.io/badge/ZKP-Enabled-purple?style=flat-square"/> 
 <img src="https://img.shields.io/badge/Blockchain-Secure-black?style=flat-square"/> 
 
-* Secure document storage with integrity guarantees
-* Zero-Knowledge Proof-based verification
-* Distributed storage concepts (IPFS-inspired)
-* Privacy-preserving architecture
+* Secure document storage
+* Zero-Knowledge Proof verification
+* Tamper-proof integrity
+* Privacy-first design
 
 ---
 
-## ⚙️ Technical Skills
+## ⚙️ Skills
 
 ### 🔐 Cybersecurity
 
@@ -126,7 +126,7 @@ VAPT • Malware Analysis • DFIR • Network Security • Threat Intelligence 
 
 PyTorch • Behavioral Modeling • Anomaly Detection • Explainable AI
 
-### ⛓️ Blockchain & Cryptography
+### ⛓️ Blockchain & Crypto
 
 Solidity • Ethereum • ZKP • Merkle Trees • IPFS • Cryptographic Protocols
 
@@ -136,22 +136,67 @@ Python • Java • JavaScript • Node.js • React • Go • Linux • Git
 
 ---
 
-## 📈 GitHub Activity
+## 🌐 Socials
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwathiPrasad-18&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwathiPrasad-18&theme=github-dark-blue&hide_border=true" height="160"/>
+<p>
+  <a href="https://www.linkedin.com/in/b-swathi-prasad18">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://tryhackme.com/p/SwathiPrasad">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚙️ Tech Stacks
+
+<p>
+
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/postgres-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SwathiPrasad-18&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwathiPrasad-18&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwathiPrasad-18&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
 ## 🎯 Current Work
 
-* Developing **AI-native cybersecurity systems**
-* Advancing **UEBA and behavioral intelligence models**
-* Applying **Zero-Knowledge Proofs in real-world security systems**
-* Designing **autonomous cyber defense architectures**
+* AI-native cybersecurity systems
+* UEBA & behavioral intelligence
+* ZKP-based secure architectures
+* Autonomous cyber defense
 
 ---
 
@@ -174,7 +219,6 @@ Python • Java • JavaScript • Node.js • React • Go • Linux • Git
   <a href="https://github.com/SwathiPrasad-18">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/b-swathi-prasad18">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
