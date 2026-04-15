@@ -14,19 +14,7 @@
   <img src="https://img.shields.io/badge/Specialty-AI%20Security%20%2B%20ZKP-purple?style=flat-square"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/SwathiPrasad-18">
-    <img src="https://img.shields.io/github/followers/SwathiPrasad-18?label=Researchers&style=flat-square&color=00E5FF"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/CCNA-Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-  &nbsp;
-  <a href="https://tryhackme.com/p/SwathiPrasad">
-    <img src="https://img.shields.io/badge/TryHackMe-Active-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SwathiPrasad-18&style=flat-square&color=00E5FF&label=profile+views" />
-</p>
+
 
 ---
 
@@ -73,20 +61,6 @@ Solidity • Ethereum • ZKP • Merkle Trees • IPFS • Cryptographic Protoc
 
 Python • Java • JavaScript • Node.js • React • Go • Linux • Git
 
----
-
-## 🌐 Socials
-
-<p>
-  <a href="https://www.linkedin.com/in/b-swathi-prasad18">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://tryhackme.com/p/SwathiPrasad">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white"/>
-  </a>
-</p>
-
----
 
 ## ⚙️ Tech Stacks
 
