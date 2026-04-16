@@ -16,53 +16,6 @@
 
 
 ---
-## ⚡ Cyber Tech Stack
-
-<p align="center">
-
-<!-- Core -->
-
-<img src="https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-FF6B00?style=for-the-badge&logo=openjdk&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Go-00E5FF?style=for-the-badge&logo=go&logoColor=black"/>
-<img src="https://img.shields.io/badge/Solidity-8A2BE2?style=for-the-badge&logo=solidity&logoColor=white"/>
-
-<br/>
-
-<!-- Frameworks -->
-
-<img src="https://img.shields.io/badge/React-00E5FF?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-39FF14?style=for-the-badge&logo=node.js&logoColor=black"/>
-<img src="https://img.shields.io/badge/FastAPI-00FFA3?style=for-the-badge&logo=fastapi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black"/>
-
-<br/>
-
-<!-- AI -->
-
-<img src="https://img.shields.io/badge/PyTorch-FF3131?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-FF9F1C?style=for-the-badge&logo=scikit-learn&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-<br/>
-
-<!-- Data -->
-
-<img src="https://img.shields.io/badge/MongoDB-39FF14?style=for-the-badge&logo=mongodb&logoColor=black"/>
-<img src="https://img.shields.io/badge/PostgreSQL-00BFFF?style=for-the-badge&logo=postgresql&logoColor=black"/>
-<img src="https://img.shields.io/badge/Redis-FF3131?style=for-the-badge&logo=redis&logoColor=white"/>
-
-<br/>
-
-<!-- Infra -->
-
-<img src="https://img.shields.io/badge/Linux-FFD600?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-00E5FF?style=for-the-badge&logo=docker&logoColor=black"/>
-<img src="https://img.shields.io/badge/Nginx-39FF14?style=for-the-badge&logo=nginx&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-FF3131?style=for-the-badge&logo=git&logoColor=white"/>
-
-</p>
 
 
 ## 🧠 About Me
