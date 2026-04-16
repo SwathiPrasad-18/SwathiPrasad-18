@@ -1,4 +1,8 @@
 <h1 align="center">Swathi Prasad B</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=%24+Initializing+AEGIS+System...;%24+Loading+Threat+Detection+Modules...;%24+Analyzing+Network+Traffic...;%24+Detecting+Anomalies...;%24+System+Status:+SECURE" />
+</p>
+
 
 <p align="center">
   <em>Cybersecurity Researcher • AI-driven Threat Intelligence • Blockchain Security Architect</em>
