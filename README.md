@@ -110,38 +110,6 @@ Python • Java • JavaScript • Node.js • React • Go • Linux • Git
 
 </p>
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SwathiPrasad-18&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwathiPrasad-18&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwathiPrasad-18&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-## 🎯 Current Work
-
-* AI-native cybersecurity systems
-* UEBA & behavioral intelligence
-* ZKP-based secure architectures
-* Autonomous cyber defense
-
----
-
-## 📜 Certifications
-
-<p>
-  <img src="https://img.shields.io/badge/CCNA-Cisco%20Certified%20Network%20Associate-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-</p>
-
-* Cisco Certified Network Associate (CCNA)
-
----
-
 ## 🤝 Connect
 
 <p>
