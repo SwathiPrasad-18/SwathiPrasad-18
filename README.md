@@ -1,7 +1,7 @@
 # B Swathi Prasad
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Profile Banner"/>
+  <img src="https://i.pinimg.com/736x/6b/8f/66/6b8f6688b0d49113c0a997e1ac967db9.jpg" width="100%" alt="Profile Banner"/>
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@ Native system analysis and security monitoring tool.
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/6b/8f/66/6b8f6688b0d49113c0a997e1ac967db9.jpg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwathiPrasad-18&theme=tokyonight" />
 </p>
 
 ---
